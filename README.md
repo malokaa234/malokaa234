@@ -19,11 +19,10 @@ I'm a Mobile Application Developer with a strong passion for creating visually a
     src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.linkedin.com/in/malk-mostafa/"><img
     src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-<a href="https://www.instagram.com/mohamedelkashef15/"><img
+<a href="https://www.instagram.com/malk_mostafa2005?igsh=a2dnMjB1cHZyY3E2"><img
     src="https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white"
     alt="Instagram"></a>
-<a href="https://www.youtube.com/c/MohamedElkashef15"><img
-    src="https://img.shields.io/badge/-YouTube-c4302b?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
+
 </p>
 
 ### 🛠 &nbsp;Technologies that I work with
