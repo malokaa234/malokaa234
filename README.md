@@ -1,41 +1,54 @@
-<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
+<h1 align="center">Hi 👋, I'm Malak Mostafa</h1>
+<h3 align="center">Mobile Application Developer | Flutter & Dart Enthusiast</h3>
 
-<h1>
-  Hi There I'm Malak Mostafa
+<p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+</p>
 
-<p>
+<p align="center">
 I'm a Mobile Application Developer with a strong passion for creating visually appealing, high-performance, and user-friendly mobile applications.
 </p>
 
-- 📱 I’m currently working on mobile development technologies like **Flutter & Dart**.
-- 📚 I’m currently learning about **Mobile App Architecture, State Management, and Backend Integration**.
-- 🎯 Future Goals: Build scalable mobile apps – Publish apps on Google Play & App Store.
+- 📱 Currently working with **Flutter & Dart**
+- 📚 Currently learning **Mobile App Architecture, State Management, and Backend Integration**
+- 🎯 Future Goals: Build scalable mobile apps and publish on **Google Play & App Store**
+- 💬 Ask me about: **Flutter, Dart, Firebase, REST APIs**
+- 📫 Reach me on the socials below
 
-- 📫 Social links
-<p>
-<a href="https://www.facebook.com/share/18ETMhymTg/"><img
-    src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://www.linkedin.com/in/malk-mostafa/"><img
-    src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-<a href="https://www.instagram.com/malk_mostafa2005?igsh=a2dnMjB1cHZyY3E2"><img
-    src="https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white"
-    alt="Instagram"></a>
-
+<p align="center">
+<a href="https://www.facebook.com/share/18ETMhymTg/" target="_blank">
+  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+<a href="https://www.linkedin.com/in/malk-mostafa/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.instagram.com/malk_mostafa2005?igsh=a2dnMjB1cHZyY3E2" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
 </p>
 
-### 🛠 &nbsp;Technologies that I work with
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
-![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
-![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
-![REST API](https://img.shields.io/badge/-REST%20API-000000?style=flat)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
+<h3 align="center">🛠 Technologies I Work With</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&layout=compact)
-<br>
+<p align="center">
+<img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+<img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+<img src="https://img.shields.io/badge/-REST%20API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API">
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
 
-<a href="https://komarev.com/ghpvc/?username=mohamedelkashef15&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=mohamedelkashef15&style=for-the-badge">
-</a>
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=malokaa234&show_icons=true&theme=radical&hide_border=true" alt="malokaa234's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malokaa234&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malokaa234&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=malokaa234&style=for-the-badge&color=blueviolet" alt="Profile Views">
+</p>
