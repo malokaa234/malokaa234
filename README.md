@@ -46,7 +46,7 @@ I'm a Mobile Application Developer with a strong passion for creating visually a
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malokaa234&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=malokaa234&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
