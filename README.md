@@ -41,8 +41,8 @@ I'm a Mobile Application Developer with a strong passion for creating visually a
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=malokaa234&show_icons=true&theme=radical&hide_border=true" alt="malokaa234's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malokaa234&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=malokaa234&show_icons=true&theme=radical&hide_border=true" alt="malokaa234's GitHub stats"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=malokaa234&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
